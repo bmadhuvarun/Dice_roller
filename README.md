@@ -1,4 +1,4 @@
-# Dice_roller**
+# Dice_roller
 **Introduction**
 The Dice Roller Web App is a fun and interactive project built using HTML, CSS, and JavaScript. It allows users to roll multiple virtual dice, generating random results just like rolling real dice. The app displays both numerical values and corresponding dice images for an engaging experience.
 
